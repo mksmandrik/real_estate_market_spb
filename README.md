@@ -1,2 +1,3 @@
 # real_estate_market_spb
-Research of the apartment sales market in St.Petersburg
+В данном репозитории я отражу индивидуальные проекты для ШАД Яндекс.Практикум.
+
