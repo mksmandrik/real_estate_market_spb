@@ -9,7 +9,7 @@
 №4 | [Сборный проект 1. Анализ игровой индустрии](https://github.com/mksmandrik/real_estate_market_spb/blob/main/MandrikMGamesProj.ipynb) | Выявляем определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании
 №5 | Аналитика для авиакомпании | Изучаем базу данных и анализируем спрос пассажиров на рейсы в города, где проходят крупнейшие фестивали
 №6 | [Применение SQL-light, ORM, API в работе в Python (запросы и редактирование баз данных)](https://github.com/mksmandrik/real_estate_market_spb/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20SQL-light%2C%20ORM%2C%20API.ipynb) | Редактирование баз данных (пополнение и удаление) тремя способами: Пандас, ORM, SQLlight, SQLAlchemy
-№7 | [Примеры работы с SQL-light | SQLPOstgrees в Python](https://github.com/mksmandrik/real_estate_market_spb/blob/main/%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20SQL%20%D0%B2%20Python.ipynb) |
+№7 | [Примеры работы с SQL-light | SQLPOstgrees в Python](https://github.com/mksmandrik/real_estate_market_spb/blob/main/%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20SQL%20%D0%B2%20Python.ipynb) | --- 
 
 
 
