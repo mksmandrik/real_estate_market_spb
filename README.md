@@ -13,4 +13,6 @@
 
 В данном репозитории я отражу выборочные индивидуальные проекты для Karpov.courses (Data Analysis).
 
-
+Номер | Название проекта и ссылка | О чем проект
+--- | --- | ---
+№1 | Минипроект по Airflow (DAG), VK API, CTR [Расчеты метрик](https://github.com/mksmandrik/real_estate_market_spb/blob/main/VKApiCTR.ipynb), [Cron, разбиение на таски / задачи](https://github.com/mksmandrik/real_estate_market_spb/blob/main/DAG%20Mandrik%20Mini-Project-AirFlow.py), [Airflow: DAG, tasks](https://github.com/mksmandrik/real_estate_market_spb/blob/main/collect_df%20(1).py) | Написание исполняемых ДАГ-ов через AirFlow c подключением к VK API. Цель: автоматизация рассчета динамики показателей метрик: количество показов, количество кликов, CTR, сумма потраченных денег для 121 тысячи объявлений за 2 дня
